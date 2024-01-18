@@ -9,12 +9,11 @@ This is the balancing robot based on modified/extended MultiWii 2.3 firmware.
 
 Hardware:
 - Arduino nano (atmega328p)
-- mpu6050 gyro-accelerometer (GY_521)
-- any RC receiver with CPPM (ppmsum) output OR serial Bluetooth module like HC-05
-- A4988 motor drivers with 1/8 microstepping configuration (see http://www.pololu.com/product/1182/ for details)
+- MPU6050 gyro-accelerometer (GY_521)
+- Bluetooth module like HC-05
+- A4988 motor drivers with 1/8 microstepping configuration (http://www.pololu.com/product/1182/)
 - Nema 17 stepper motors
 - 1/8 Buggy Wheels
-- Buzzer 
 
 Blogs:
 - https://forum.arduino.cc/t/self-balancing-arduino-robot/996877
