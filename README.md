@@ -1,6 +1,6 @@
 
 ===================================
-BalancingWii rev 1.0 
+Self Balancing Robot(Arduino based)
 ===================================
 
 Hi all! 
